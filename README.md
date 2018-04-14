@@ -1,8 +1,8 @@
 # accurib
 
-generated using Luminus version "2.9.12.44"
+Version 2 of the accurib rib forcaster
 
-FIXME
+Generated using Luminus version "2.9.12.44"
 
 ## Prerequisites
 
@@ -18,4 +18,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright PKC Security 2018
